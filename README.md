@@ -8,7 +8,7 @@
 
 3.開始新專案 
 
-<img src="./img/install_2.png" width=400px height=400px> 
+<img src="./img/install_2.png" width=600px height=350px> 
 
 <img src="./img/install_3.png" width=400px height=400px> 
 
