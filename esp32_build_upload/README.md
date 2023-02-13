@@ -14,6 +14,8 @@
 
 4.簡易LED 上傳測試
 
-<img src="../img/run_1.png" width=400px height=400px>
+<img src="../img/run_1.png" width=600px height=400px>
+
+<img src="../img/run_2.png" width=600px height=100px>
 
 <img src="../img/blink.gif" width=400px height=400px> 
