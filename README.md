@@ -7,4 +7,7 @@
 ![plot](./img/install_1.png)   
 
 3.開始新專案 
+![plot](./img/install_2.png)
+
+![plot](./img/install_3.png) 
 
