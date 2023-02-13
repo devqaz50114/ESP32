@@ -12,10 +12,14 @@
 
 <img src="../img/install_3.png" width=400px height=400px> 
 
-4.簡易LED 上傳測試
+4.簡易LED閃滅 
 
 <img src="../img/run_1.png" width=600px height=400px>
 
+5.(下圖)先執行 1編譯 2上傳  (記得COM 要選擇成esp32連接的port)
+
 <img src="../img/run_2.png" width=600px height=100px>
+
+6.運行成果
 
 <img src="../img/blink.gif" width=400px height=400px> 
