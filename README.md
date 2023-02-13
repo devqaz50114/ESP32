@@ -7,10 +7,11 @@
 <img src="./img/install_1.png" width=200px height=400px> 
 
 3.開始新專案 
-<img src="./img/install_2.png" width=250px height=250px> 
 
-<img src="./img/install_3.png" width=250px height=250px> 
+<img src="./img/install_2.png" width=400px height=400px> 
+
+<img src="./img/install_3.png" width=400px height=400px> 
 
 
 
-<img src="./img/blink.gif" width=250px height=250px> 
+<img src="./img/blink.gif" width=400px height=400px> 
